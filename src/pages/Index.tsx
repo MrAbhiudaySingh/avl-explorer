@@ -17,6 +17,7 @@ const Index = () => {
       )}
       <footer className="text-center text-muted-foreground text-xs py-2">
         © 2024 AVL Visualizer Clay Edition. Designed for educational purposes.
+        <span className="ml-2 opacity-50">(v1.1 — Updated Mar 2026)</span>
       </footer>
     </div>
   );
